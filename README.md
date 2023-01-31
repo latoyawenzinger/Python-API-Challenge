@@ -1,10 +1,11 @@
 # Python-API-Challenge
 
 
-This assignment uses **Python Requests**, **APIs**, and **JSON traversal** to the question: ##"What's the weather as we approach the equator?"**
+This assignment uses **Python Requests**, **APIs**, and **JSON traversal** to the question: **"What's the weather as we approach the equator?"**
 
 
 APIs used: OpenWeatherMapAPI and Geoapify
+
 
 
 **OpenWeatherMapAPI** was used to create plots comparing (using coordinates from many cities): 
@@ -24,6 +25,7 @@ APIs used: OpenWeatherMapAPI and Geoapify
 -Northern Hemisphere: Wind Speed vs. Latitude
 
 -Southern Hemisphere: Wind Speed vs. Latitude
+
 
 
 **Geoapify** was used to create a map that displayed the first hotel located within 10,000 meters of a city's coordinates, provided it had ideal weather (specified parameters set in script)
