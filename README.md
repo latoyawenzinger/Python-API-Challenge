@@ -4,27 +4,27 @@
 This assignment uses **Python Requests**, **APIs**, and **JSON traversal** to the question: **"What's the weather as we approach the equator?"**
 
 
-APIs used: OpenWeatherMapAPI and Geoapify
+APIs used: **OpenWeatherMapAPI** and **Geoapify**
 
 
 
 **OpenWeatherMapAPI** was used to create plots (using coordinates from many cities) comparing: 
 
--- Northern Hemisphere: Temperature vs. Latitude
+- Northern Hemisphere: Temperature vs. Latitude
 
 - Southern Hemisphere: Temperature vs. Latitude
 
--Northern Hemisphere: Humidity vs. Latitude
+- Northern Hemisphere: Humidity vs. Latitude
 
--Southern Hemisphere: Humidity vs. Latitude
+- Southern Hemisphere: Humidity vs. Latitude
 
--Northern Hemisphere: Cloudiness vs. Latitude
+- Northern Hemisphere: Cloudiness vs. Latitude
 
--Southern Hemisphere: Cloudiness vs. Latitude
+- Southern Hemisphere: Cloudiness vs. Latitude
 
--Northern Hemisphere: Wind Speed vs. Latitude
+- Northern Hemisphere: Wind Speed vs. Latitude
 
--Southern Hemisphere: Wind Speed vs. Latitude
+- Southern Hemisphere: Wind Speed vs. Latitude
 
 
 
