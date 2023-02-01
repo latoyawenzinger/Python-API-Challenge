@@ -8,7 +8,7 @@ APIs used: OpenWeatherMapAPI and Geoapify
 
 
 
-**OpenWeatherMapAPI** was used to create plots comparing (using coordinates from many cities): 
+**OpenWeatherMapAPI** was used to create plots (using coordinates from many cities) comparing: 
 
 -Northern Hemisphere: Temperature vs. Latitude
 
