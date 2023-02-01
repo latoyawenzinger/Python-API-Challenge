@@ -10,9 +10,9 @@ APIs used: OpenWeatherMapAPI and Geoapify
 
 **OpenWeatherMapAPI** was used to create plots (using coordinates from many cities) comparing: 
 
--Northern Hemisphere: Temperature vs. Latitude
+-- Northern Hemisphere: Temperature vs. Latitude
 
--Southern Hemisphere: Temperature vs. Latitude
+- Southern Hemisphere: Temperature vs. Latitude
 
 -Northern Hemisphere: Humidity vs. Latitude
 
